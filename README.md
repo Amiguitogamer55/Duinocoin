@@ -1,0 +1,2 @@
+# Duinocoin
+Duino coin miner
